@@ -3,6 +3,7 @@ import { HubDetail, HubLocation, Role } from "./types";
 export const ROLE_DEFINITIONS: Record<Role, string> = {
   [Role.HC]: "Head of Creative / Human Capital",
   [Role.DA]: "Diretor de Arte (Art Director)",
+  [Role.CC]: "Coordenador de Comunicação",
   [Role.RED]: "Redator (Copywriter)",
   [Role.ATE]: "Atendimento (Account Manager)",
   [Role.PLAN]: "Planejamento (Strategic Planner)",

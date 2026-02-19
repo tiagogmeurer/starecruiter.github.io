@@ -1,6 +1,7 @@
 export enum Role {
   HC = "Head de Criação",
   DA = "Diretor de Arte",
+  CC = "Coordenador de Comunicação",
   RED = "Redator",
   ATE = "Atendimento",
   PLAN = "Planejamento",

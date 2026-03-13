@@ -444,8 +444,7 @@ const App: React.FC = () => {
               Starecruiter <span className="text-red-400 font-light">| Caça-talentos</span>
             </h1>
             <p className="text-gray-500 max-w-2xl mx-auto">
-              Ferramenta de busca de talentos alimentada por Inteligência Artificial para a StarMKT. Encontre o profissional ideal com
-              precisão de raio e fit cultural.
+              Encontre o profissional ideal com precisão de raio e fit cultural.
             </p>
           </div>
 
